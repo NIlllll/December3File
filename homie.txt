@@ -17,4 +17,8 @@ changed from the firstBranch
 
 second change from the firstbranch
 
+<<<<<<< HEAD
 chnaged in firstbranch only
+=======
+check testung mike mike 
+>>>>>>> master
